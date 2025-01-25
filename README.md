@@ -55,11 +55,21 @@ Este projeto é um sistema backend desenvolvido em **Java** utilizando **Spring 
 
 
 API Desenvolvida conta com 5 rotas funcionais: 
-Games:![image](https://github.com/user-attachments/assets/ca865373-8f2f-4580-831e-6259f4b55a6a)
-Game Lists: ![image](https://github.com/user-attachments/assets/774d9b24-f7c6-403c-a1c3-b8e6ea31b062)
-Game by lists: ![image](https://github.com/user-attachments/assets/25714750-eef9-4fb5-b035-09132fb05b2d)
-Game by id:![image](https://github.com/user-attachments/assets/cbd0613a-4748-4285-9ee8-ff2e63c3d5d9)
-List replacement: ![image](https://github.com/user-attachments/assets/70044b01-a15e-491a-91a1-4632bbe4a4a0)
+
+Games:
+![image](https://github.com/user-attachments/assets/ca865373-8f2f-4580-831e-6259f4b55a6a)
+
+Game Lists: 
+![image](https://github.com/user-attachments/assets/774d9b24-f7c6-403c-a1c3-b8e6ea31b062)
+
+Game by lists:
+![image](https://github.com/user-attachments/assets/25714750-eef9-4fb5-b035-09132fb05b2d)
+
+Game by id:
+![image](https://github.com/user-attachments/assets/cbd0613a-4748-4285-9ee8-ff2e63c3d5d9)
+
+List replacement: 
+![image](https://github.com/user-attachments/assets/70044b01-a15e-491a-91a1-4632bbe4a4a0)
 
 
 
